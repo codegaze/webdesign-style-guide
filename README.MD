@@ -7,10 +7,10 @@ I find it useful to give them this guide before or even after they 've finished 
 This is a guide I use for everyday small projects with agencies, a contest, a mini site etc,  please send PRs with what you think will make this a real thing.
 
 ## Index:
-* [Typography](#Typography)
-* [Colors](#Colors)
-* [Buttons](#Buttons)
-* [Forms](#Forms)
+* [Typography](#typography)
+* [Colors](#colors)
+* [Buttons](#buttons)
+* [Forms](#forms)
 
 ## Typography
 * Fonts/WebFonts (with fallbacks)
